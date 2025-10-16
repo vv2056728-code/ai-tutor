@@ -5,3 +5,4 @@ pydantic
 openai
 streamlit
 streamlit-agraph
+pip install openai==0.28.0
